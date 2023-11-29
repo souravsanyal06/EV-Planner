@@ -1,0 +1,19 @@
+digraph G {
+"bebop2/base_link" -> "bebop2/base_link_inertia"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 4731.250 sec old)\nBuffer length: 0.000 sec\n"];
+"world" -> "bebop2/base_link"[label="Broadcaster: /gazebo\nAverage rate: 100.200 Hz\nMost recent transform: 4731.250 ( 0.000 sec old)\nBuffer length: 4.990 sec\n"];
+"bebop2/base_link" -> "bebop2/camera_base_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 4731.250 sec old)\nBuffer length: 0.000 sec\n"];
+"bebop2/camera_base_link" -> "bebop2/camera_base_optical_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 4731.250 sec old)\nBuffer length: 0.000 sec\n"];
+"bebop2/base_link" -> "camera_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 4731.250 sec old)\nBuffer length: 0.000 sec\n"];
+"bebop2/base_link" -> "event_camera_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 4731.250 sec old)\nBuffer length: 0.000 sec\n"];
+"bebop2/base_link" -> "bebop2/rotor_0"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 50.201 Hz\nMost recent transform: 4731.240 ( 0.010 sec old)\nBuffer length: 4.980 sec\n"];
+"bebop2/base_link" -> "bebop2/rotor_1"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 50.201 Hz\nMost recent transform: 4731.240 ( 0.010 sec old)\nBuffer length: 4.980 sec\n"];
+"bebop2/base_link" -> "bebop2/rotor_2"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 50.201 Hz\nMost recent transform: 4731.240 ( 0.010 sec old)\nBuffer length: 4.980 sec\n"];
+"bebop2/base_link" -> "bebop2/rotor_3"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 50.201 Hz\nMost recent transform: 4731.240 ( 0.010 sec old)\nBuffer length: 4.980 sec\n"];
+"bebop2/base_link" -> "bebop2/imu_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10.204 Hz\nMost recent transform: 4731.200 ( 0.050 sec old)\nBuffer length: 4.900 sec\n"];
+"bebop2/base_link" -> "bebop2/imugt_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10.204 Hz\nMost recent transform: 4731.200 ( 0.050 sec old)\nBuffer length: 4.900 sec\n"];
+"bebop2/base_link" -> "bebop2/odometry_sensorgt_link"[label="Broadcaster: /bebop2/robot_state_publisher\nAverage rate: 10.204 Hz\nMost recent transform: 4731.200 ( 0.050 sec old)\nBuffer length: 4.900 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 4731.250"[ shape=plaintext ] ;
+ }->"world";
+}
