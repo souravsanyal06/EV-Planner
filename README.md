@@ -10,4 +10,3 @@ https://github.com/souravsanyal06/EV-Planner/assets/33360350/9ec065ac-8ebd-4bd5-
 
 
 
-The project is not fully released yet
