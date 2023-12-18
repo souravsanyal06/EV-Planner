@@ -1,6 +1,7 @@
 # Setup
 
 git clone --recurse-submodules -j8 https://github.com/souravsanyal06/EV-Planner.git 
+
 EV_Planner is the catkin worspace directory. Rename it as cv_ws
 
 # Abstract
