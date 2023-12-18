@@ -12,6 +12,8 @@ https://arxiv.org/pdf/2307.11349.pdf
 
 # Video demonstration:
 
+https://www.youtube.com/watch?v=NDOw2ItGGa0
+
 
 https://github.com/souravsanyal06/EV-Planner/assets/33360350/9ec065ac-8ebd-4bd5-8032-198fc16e363c
 
