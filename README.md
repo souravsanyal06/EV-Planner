@@ -1,10 +1,14 @@
 # Setup
 EV_Planner is the catkin worspace directory. 
+
 Rename it as cv_ws.
+
 Major Implementations are available at src/trajectory_learner
 
 Other ROS packages are drawn from the respective github sub-repos. 
+
 git clone --recurse-submodules -j8 https://github.com/souravsanyal06/EV-Planner.git 
+
 To build, run build.sh 
 
 # Abstract
