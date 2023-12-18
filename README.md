@@ -6,9 +6,11 @@ Vision-based object tracking is an essential precursor to performing autonomous 
 <img width="779" alt="image" src="https://github.com/souravsanyal06/EV-Planner/assets/33360350/f79f7ea3-2f49-4d6d-8390-6abae3382b7a">
 
 
-
 # ArxiV Link:  
 https://arxiv.org/pdf/2307.11349.pdf
+
+# Slides with voice-over available at:
+https://www.youtube.com/watch?v=NDOw2ItGGa0
 
 # Video demonstration:
 
