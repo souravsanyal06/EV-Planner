@@ -25,7 +25,9 @@ https://arxiv.org/pdf/2307.11349.pdf
 https://www.youtube.com/watch?v=NDOw2ItGGa0
 
 # Event-based Tracking of moving Ring
-![Uploading EV_box.gif…]()
+![EV_box](https://github.com/souravsanyal06/EV-Planner/assets/33360350/ab0b8fe7-8ad0-4828-bf34-ec5372b8e842)
+
+
 
 # Video demonstration of Obstacle Avoidance:
 https://github.com/souravsanyal06/EV-Planner/assets/33360350/9ec065ac-8ebd-4bd5-8032-198fc16e363c
