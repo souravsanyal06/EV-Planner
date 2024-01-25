@@ -17,6 +17,9 @@ Vision-based object tracking is an essential precursor to performing autonomous 
 # System Overview:
 <img width="779" alt="image" src="https://github.com/souravsanyal06/EV-Planner/assets/33360350/f79f7ea3-2f49-4d6d-8390-6abae3382b7a">
 
+# Publication Link
+
+https://ieeexplore.ieee.org/abstract/document/10382663?casa_token=4mefcwX1EfMAAAAA:3Gg0PAjyNMS7njGjg4-UeEMJflSxXO2GSHlUCmdrwp3Fml5J9wa1efZKM9IrIlxUiXtAQFyC2fQ
 
 # ArxiV Link:  
 https://arxiv.org/pdf/2307.11349.pdf
@@ -33,6 +36,7 @@ https://www.youtube.com/watch?v=NDOw2ItGGa0
 https://github.com/souravsanyal06/EV-Planner/assets/33360350/9ec065ac-8ebd-4bd5-8032-198fc16e363c
 
 
-
+# Citation
+S. Sanyal, R. K. Manna and K. Roy, "EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3350982.
 
 
